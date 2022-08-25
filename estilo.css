@@ -1,0 +1,16 @@
+html, body, #home{
+  height: 100%; /*Irá ocupar 100% da área*/
+  overflow-x: hidden; /*Esconde a barra horizontal*/
+}
+
+#saudacoes{
+  background-color: aqua;
+}
+
+#saida{
+  background-color: chartreuse;
+}
+
+#msg{
+  
+}
