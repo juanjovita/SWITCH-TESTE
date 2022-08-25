@@ -4,7 +4,7 @@ var idade = prompt('Em que ano você nasceu?')
 
   switch (parseInt(idade)){
 
-    case 2011:
+    case 2011, 2012:
       window.location.href = "home_default.html"
         break
 
